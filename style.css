@@ -36,7 +36,7 @@ input {
 
 .section-1 {
   width: 25%;
-  background: url(bg-main-desktop.png);
+  background: url(./assets/bg-main-desktop.png);
   background-position: 100%;
   position: relative;
 }
@@ -50,7 +50,7 @@ input {
   left: 10vw;
   height: 28vh;
   width: 24vw;
-  background: url(bg-card-front.png);
+  background: url(./assets/bg-card-front.png);
   background-position: 90%;
   border-radius: 10px;
   padding: 25px;
